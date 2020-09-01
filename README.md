@@ -4,6 +4,7 @@
   📖 <a href="https://docs.cosmicjs.com">View Docs</a>
 </p>
 
+
 This is the source code for the Cosmic documentation site and is built with [VuePress v1+](https://v1.vuepress.vuejs.org/).
 
 ## Local Setup
